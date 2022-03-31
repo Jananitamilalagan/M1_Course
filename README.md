@@ -1,1 +1,1 @@
-# M1_Course1
+# M1_Pacman
